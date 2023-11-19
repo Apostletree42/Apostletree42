@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apostletree42</h1>
-<h3 align="center">npm install skill. . .(ERROR: skill already exists!)</h3>
+<h3 align="center">npm install skill. . .{ERROR: skill already exists!}</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apostletree42&label=Profile%20views&color=0e75b6&style=flat" alt="apostletree42" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS(with Vite), ExpressJS(along with Postman), MongoDB, building ML models using BigQuery(SQL)**
 
-- 👯 I’m looking to collaborate on **open source**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 💬 Ask me about **react, flask, sql(sqlite), arduino**
 
