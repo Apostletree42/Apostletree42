@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/apostletree42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="apostletree42" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@apostletree42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@apostletree42" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Apostletree42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@apostletree42" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
