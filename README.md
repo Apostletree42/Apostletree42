@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apostletree42</h1>
-<h3 align="center">I'm passionate about your mom</h3>
+<h3 align="center">npm install skill. . .(ERROR: skill already exists!)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apostletree42&label=Profile%20views&color=0e75b6&style=flat" alt="apostletree42" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mada.sushruth20@gmail.com**
 
-- ⚡ Fun fact **npm install skill...(error: skill already exists)**
+- ⚡ Fun fact **Koalas sleep for upto 20 hours a day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apostletree42&show_icons=true&locale=en&layout=compact" alt="apostletree42" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apostletree42&show_icons=true&locale=en" alt="apostletree42" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apostletree42&" alt="apostletree42" /></p>
