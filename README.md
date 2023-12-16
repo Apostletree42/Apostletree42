@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **secret hehe :P**
 
-- 🌱 I’m currently learning **ReactJS(with Vite), ExpressJS, MongoDB, building ML models using BigQuery(SQL)**
+- 🌱 I’m currently learning **ReactJS(with Vite), ExpressJS, MongoDB, building ML models**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
