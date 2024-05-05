@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, flask, sql(sqlite), arduino**
 
-- 📫 How to reach me **mada.sushruth20@gmail.com**
+- 📫 How to reach me **sandystraw137@gmail.com**
 
 - ⚡ Fun fact **Koalas sleep for upto 20 hours a day**
 
