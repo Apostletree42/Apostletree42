@@ -119,6 +119,9 @@ const apostletree42 = {
 <!-- Connect Section -->
 ## 🤝 Connect with Me
 <div align="left">
+  <a href="mailto:sandystraw137@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-0077CC?style=for-the-badge&logo=mail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://dev.to/apostletree42" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
   </a>
