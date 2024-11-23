@@ -131,9 +131,6 @@ const apostletree42 = {
   <a href="https://medium.com/@sandystraw137" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://leetcode.com/sandystraw137" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
 </div>
 
 <!-- Footer -->
