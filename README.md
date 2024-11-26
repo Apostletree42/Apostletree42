@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sudo%20rm%20-rf%20/problems/*&fontSize=50&animation=fadeIn&theme=monokai" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sudo%20rm%20-rf%20/problems/*&fontSize=50&animation=fadeIn&theme=monokai" />
 </div>
 <!-- Profile Views Counter -->
 <p align="left">
