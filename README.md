@@ -34,7 +34,7 @@ const apostletree42 = {
     languages: ["JavaScript", "TypeScript", "Python", "Dart"],
     architecture: ["Microservices", "Event-Driven", "Design Patterns"],
     currentlyLearning: ["Neural Networks", "Devops"],
-    challengesSolved: "100+ on LeetCode 🔥"
+    challengesSolved: "200+ on LeetCode 🔥"
   },
   
   interests: {
