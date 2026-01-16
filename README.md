@@ -8,11 +8,11 @@
 </p>
 
 <!-- GitHub Trophies (Volunteer endpoint – use in moderation) -->
-<div align="center">
+<!-- <div align="center">
   
   [![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=apostletree42&theme=monokai&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
-</div>
+</div> -->
 
 <!-- About Me Section -->
 ## 🚀 About Me
