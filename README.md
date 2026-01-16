@@ -7,12 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=apostletree42&label=Profile%20views&color=0e75b6&style=flat&theme=monokai" alt="apostletree42" />
 </p>
 
-<!-- GitHub Trophies -->
-<!-- <div align="center">
+<!-- GitHub Trophies (Volunteer endpoint – use in moderation) -->
+<div align="center">
   
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=apostletree42&theme=monokai&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=apostletree42&theme=monokai&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
-</div> -->
+</div>
 
 <!-- About Me Section -->
 ## 🚀 About Me
