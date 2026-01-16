@@ -8,11 +8,11 @@
 </p>
 
 <!-- GitHub Trophies -->
-<div align="center">
+<!-- <div align="center">
   
   [![Trophy](https://github-profile-trophy.vercel.app/?username=apostletree42&theme=monokai&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
-</div>
+</div> -->
 
 <!-- About Me Section -->
 ## 🚀 About Me
@@ -97,7 +97,7 @@ const apostletree42 = {
 </div>
 
 <!-- GitHub Stats -->
-<div align="center">
+<!-- <div align="center">
   
   ### 📊 GitHub Stats
   
@@ -114,7 +114,7 @@ const apostletree42 = {
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apostletree42&theme=monokai" alt="GitHub Streak" />
   
-</div>
+</div> -->
 
 <!-- Connect Section -->
 ## 🤝 Connect with Me
