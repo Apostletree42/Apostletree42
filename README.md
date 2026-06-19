@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sudo%20rm%20-rf%20/problems/*&fontSize=50&animation=fadeIn&theme=monokai" />
 </div>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=apostletree42&label=Profile%20views&color=0e75b6&style=flat&theme=monokai" alt="apostletree42" />
-</p>
+</p> -->
 
 ## 🚀 About Me
 
