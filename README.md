@@ -7,19 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=apostletree42&label=Profile%20views&color=0e75b6&style=flat&theme=monokai" alt="apostletree42" />
 </p> -->
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const apostletree42 = {
   status: {
-    currentFocus: "Backend systems & distributed infra ⚙️",
-    availability: "Open to interesting collaborations 🤝"
+    currentFocus: "Backend systems & distributed infra",
+    availability: "Open to interesting collaborations :D"
   },
 
   work: {
     role: "Backend Engineer — card transaction processing",
-    domain: "Fintech microservices at scale 💳",
-    mode: "Production debugging: ON 🐛"
+    domain: "Fintech microservices at scale",
+    mode: "Production debugging: ON"
   },
 
   development: {
@@ -27,7 +27,7 @@ const apostletree42 = {
     backend: ["Spring Boot", "gRPC", "Kafka", "Redis"],
     infra: ["Kubernetes", "Istio", "Azure Service Bus"],
     architecture: ["Microservices", "Event-Driven", "Design Patterns"],
-    challengesSolved: "200+ on LeetCode 🔥"
+    challengesSolved: "300+ on LeetCode"
   },
 
   learning: ["Distributed systems (DDIA)", "DSA patterns", "Mandarin → HSK 5"],
@@ -48,7 +48,7 @@ const apostletree42 = {
 };
 ```
 
-## 💻 Tech Stack
+## Tech Stack
 <div align="center">
 
 ### Languages
