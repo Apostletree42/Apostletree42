@@ -83,9 +83,6 @@ const apostletree42 = {
   <a href="mailto:sandystraw137@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-0077CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://x.com/TreeApostle" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
 </div>
 
 <div align="center">
